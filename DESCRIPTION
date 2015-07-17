@@ -1,0 +1,11 @@
+Package: miRNAEnrich
+Type: Package
+Title: Enrichment of miRNA
+Version: 1.0
+Date: 2015-07-17
+Author: Komal S Rathi
+Maintainer: Komal Rathi <komalr@mail.med.upenn.edu>
+Description: In a given microarray experiment, this package computes a fisher-based enrichment of miRNA(s) depending on the enrichment of its targets in the foreground as compared to the background (expressed genes). It utilizes the TargetScan and microRNA datatbases for miRNA-target relationship.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
