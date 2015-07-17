@@ -9,3 +9,5 @@ Description: In a given microarray experiment, this package computes a fisher-ba
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: http://github.com/komalsrathi/miRNAEnrich
+BugReports: http://github.com/komalsrathi/miRNAEnrich/issues
